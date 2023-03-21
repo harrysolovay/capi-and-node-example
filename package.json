@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@capi/polkadot": "https://capi.dev/@v0.1.0-beta.27/frame/wss/rpc.polkadot.io/@latest/pkg.tar"
+  }
+}
